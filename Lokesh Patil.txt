@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 My Name is Lokesh Patil I am from Bhopal ....
+=======
+My Name is Lokesh Patil I am from Bhopal. I am a Software Developer
+>>>>>>> 93f74743806669b8699aed9c2be38611b0a80796
